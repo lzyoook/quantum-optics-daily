@@ -1,0 +1,515 @@
+[
+  {
+    "doi": "https://doi.org/10.1038/s41467-026-76166-3",
+    "title": "Catalyst-free single-molecule cascade photoreactions for spatiotemporally programmed encryption",
+    "date": "2026-07-31",
+    "journal": "Nature Communications",
+    "authors": [
+      "Xiaoling Zuo",
+      "Rong Li",
+      "Chuan Liu",
+      "Yonglang Liu",
+      "Dan Mao"
+    ],
+    "abstract": "The escalating crisis of information leakage necessitates a shift from static identifiers to intelligent, dynamically secure systems. Current approaches, even up-to-date time-dependent ones, remain constrained by non-progressive or multicomponent designs that lack programmable spatiotemporal control, underscoring the need for a minimal, integrated molecular platform. Herein, we report a single-molecule system (4BT-Py-PTC) that achieves time-gated, graded multicolor fluorescence via sequential, catalyst-free photoreactions. This designed pathway involves thiocarbonate hydrolysis, alkene cleavage, and aldehyde photooxidation, progressively transforming the initial yellow emitter into red- (3BT-Py, 5 min), yellow- (2BT-CHO, 20 min), and blue-emissive (5BT-COOH, 80 min) products. This intrinsic programmability enables a higher-order of spatiotemporal command. Leveraging this output, we demonstrate two encryption modes: time-gated 3D codes and organogel matrices for multistage (reveal–conce",
+    "oa": true,
+    "oa_url": "https://www.nature.com/articles/s41467-026-76166-3_reference.pdf",
+    "tier": "white",
+    "priority": 1
+  },
+  {
+    "doi": "https://doi.org/10.1038/s41467-026-75823-x",
+    "title": "A capacitive photodiode for analogue and digital processing",
+    "date": "2026-07-31",
+    "journal": "Nature Communications",
+    "authors": [
+      "Chengyou Wang",
+      "Zhuoran Wang",
+      "Wenhao Ran",
+      "Bo Che",
+      "Tao Chen"
+    ],
+    "abstract": "An optical wireless communication system requires signal preprocessing and computation, which typically rely on distinct analogue and digital modules. However, this module separation inevitably increases system footprint and fails to meet the space and power constraints of edge applications. Here, we report a capacitive photodiode that embeds both analogue filtering and digital processing functions. This device uses an antimony oxide dielectric layer formed in situ on an antimony sulfide light absorber. The resulting capacitor-photodiode structure exhibits enhanced charge accumulation at high frequencies, thereby realizing a high-pass filtering function that prevents eavesdropping. Meanwhile, the in-situ formation of the dielectric layer introduces anionic vacancies. Under high-energy photon illumination, these vacancies become ionized and dope the semiconductor. This wavelength-dependent photodoping inverts the built-in electric field, thereby reversing the diode polarity and enabling",
+    "oa": true,
+    "oa_url": "https://www.nature.com/articles/s41467-026-75823-x_reference.pdf",
+    "tier": "white",
+    "priority": 1
+  },
+  {
+    "doi": "https://doi.org/10.1007/s44308-026-00028-z",
+    "title": "First principles exploration of $$\\textrm{Co}_{2}$$ VPb for sustainable energy applications",
+    "date": "2026-07-30",
+    "journal": "Journal of Materials Science Materials in Energy",
+    "authors": [
+      "Sumit Kumar",
+      "Vivek",
+      "Karan Singh Vinayak",
+      "Diwaker",
+      "Shyam L. Gupta"
+    ],
+    "abstract": "In this study, $$\\textrm{Co}_{2}$$ VPb is analyzed as a multifunctional material, confirming its stability in the cubic phase and robust half-metallicity with 100% spin-polarization at the Fermi level and a total magnetic moment of 3.0 $$\\mu_B$$ per formula unit. The analysis of the density of states identifies Co and V atoms as the main contributors to magnetism, while the electronic band structure shows a metallic majority and a semiconducting minority channel with an indirect gap of 0.743 eV. Additionally, the material displays a stable mechanical structure, excellent thermal stability, and strong ultraviolet absorption with high infrared reflectivity. Notably, it demonstrates a large Seebeck coefficient and a maximum thermoelectric figure of merit of approximately 0.95 at 300 K, indicating significant potential for sustainable energy technologies.",
+    "oa": true,
+    "oa_url": "https://link.springer.com/content/pdf/10.1007/s44308-026-00028-z.pdf",
+    "tier": "white",
+    "priority": 1
+  },
+  {
+    "doi": "https://doi.org/10.1038/s41467-026-75873-1",
+    "title": "Photonic scaffolds as ultrahigh-openness on-chip hollow-core waveguides for quantum photonics and optofluidics",
+    "date": "2026-07-28",
+    "journal": "Nature Communications",
+    "authors": [
+      "Wenqin Huang",
+      "Diana Pereira",
+      "Matthias Zeisberger",
+      "Hala Said",
+      "Esteban Gómez-López"
+    ],
+    "abstract": "On-chip hollow-core waveguides enable strong light-matter interaction in gases and liquids with high integration density, yet limited side access to the core restricts their use in diffusion-driven processes. We introduce a distinct class of on-chip hollow-core waveguides that confines light in a scaffold membrane geometry composed predominantly of air, reaching cladding-openness fraction up to 80% while maintaining optical losses comparable to fully enclosed waveguides. Light guidance in the photonic scaffold is enabled by the combination of anti-resonant confinement with Bloch-mode formation in a segmented structure. High-precision 3D nanoprinting, extensive optical characterization and a resonator-based theoretical model confirm the guiding principle and loss behavior. We demonstrate application relevance through enhanced molecular diffusion, highly integrated optofluidic spectroscopy, and efficient single-photon transmission enabled by the open scaffold geometry and air-dominant gu",
+    "oa": true,
+    "oa_url": "https://www.nature.com/articles/s41467-026-75873-1.pdf",
+    "tier": "white",
+    "priority": 1
+  },
+  {
+    "doi": "https://doi.org/10.1038/s41535-026-00929-w",
+    "title": "Hybrid metal-semiconductor quantum dots in InAs as a platform for quantum simulation",
+    "date": "2026-07-27",
+    "journal": "npj Quantum Materials",
+    "authors": [
+      "Praveen Sriram",
+      "Connie L. Hsueh",
+      "Karna A. Morey",
+      "T Wang",
+      "CR Thomas"
+    ],
+    "abstract": "Abstract Arrays of hybrid metal-semiconductor quantum dots offer a new approach to quantum simulation, with key advantages over arrays of conventional quantum dots. Because the metallic component of these hybrid dots has a quasi-continuous level spectrum, each site in an array can be effectively electronically identical; in contrast, each conventional semiconductor quantum dot has its own spectral fingerprint. Meanwhile, the semiconductor component retains gate-tunability of intersite coupling. This combination creates a scalable platform for simulating correlated ground states driven by Coulomb interactions. We report the fabrication and characterization of hybrid metal-semiconductor dots, featuring a submicron metal island transparently contacting a gate-confined region of an InAs quantum well with tunable couplings to macroscopic leads. Tuning the dot-lead coupling to the weak-coupling limit yields highly-uniform Coulomb peaks, with no resolvable excitation spectrum in the Coulomb d",
+    "oa": true,
+    "oa_url": "https://www.nature.com/articles/s41535-026-00929-w_reference.pdf",
+    "tier": "white",
+    "priority": 1
+  },
+  {
+    "doi": "https://doi.org/10.1002/lpor.202502677",
+    "title": "Telecom‐Integrated Photonic Memory Operating Near the Mechanical Ground State",
+    "date": "2026-07-27",
+    "journal": "Laser & Photonics Review",
+    "authors": [
+      "唐锦道 Tang Jindao",
+      "Bo Jing",
+      "Liping Zeng",
+      "Peiqin Chen",
+      "梁恒瑞 Liang Hengrui"
+    ],
+    "abstract": "ABSTRACT Scalable quantum networks require quantum memories that are chip‐integrated, telecom‐band compatible, and capable of flexible retrieval. Nanofabricated mechanical resonators meet these criteria. They offer independent tunability of optical and mechanical modes, long‐lived phonon states, and design flexibility beyond atomic systems, making them strong candidates for practical integrated quantum memory. Here, we demonstrate an on‐chip, absorptive optomechanical memory for telecom‐band photons, based on optomechanically induced transparency (OMIT) and operating near the mechanical ground state. The device stores telecom‐band photons, demonstrating compatibility with external photon sources at the few‐photon level, while enabling on‐demand retrieval. By placing the device in a dilution refrigerator at 20 mK and tailoring the control field to suppress optical heating, we achieve a remarkably low phonon occupancy of just 0.32 during the storage process. Our results lay the groundwor",
+    "oa": true,
+    "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/lpor.202502677",
+    "tier": "white",
+    "priority": 1
+  },
+  {
+    "doi": "https://doi.org/10.3390/qubs10030017",
+    "title": "Wafer Support Systems (WSSs) as Beam–Matter Interaction Platforms: Electrostatic Chucking, Thermal Transport, Metrology Coupling, Industrial Architectures, and Emerging Semiconductor Platforms",
+    "date": "2026-07-23",
+    "journal": "Quantum Beam Science",
+    "authors": [
+      "Abbas Alshehabi",
+      "Jaafar AlMutawa",
+      "Mahmood Hammad"
+    ],
+    "abstract": "Wafer support systems (WSSs) are commonly treated as passive mechanical fixtures in semiconductor tools, yet they function in practice as active beam-facing platforms that shape the conditions under which quantum beams interact with wafers. This review re-examines WSSs from a quantum beam science perspective by integrating beam–matter interaction physics, electrostatic chucking, thermal transport, precision stage dynamics, industrial platform architectures, and beam-coupled metrology within a unified framework. Drawing on academic and industrial sources, the review compares lithography, plasma-processing, deposition, inspection, and metrology environments to show how support-platform design influences stability, heat dissipation, charging behavior, vibration sensitivity, wafer flatness, and defect detectability. Particular emphasis is placed on electrostatic chucks as coupled electrical and thermal interfaces, on precision motion systems as beam-conditioning infrastructure, and on the ",
+    "oa": true,
+    "oa_url": "https://www.mdpi.com/2412-382X/10/3/17/pdf?version=1784805086",
+    "tier": "white",
+    "priority": 1
+  },
+  {
+    "doi": "https://doi.org/10.1364/ol.606204",
+    "title": "Folded multistability and hidden critical point in microwave-driven Rydberg atoms",
+    "date": "2026-07-21",
+    "journal": "Optics Letters",
+    "authors": [
+      "Yu Ma",
+      "Bang Liu",
+      "Lihua Zhang",
+      "Yajun Wang",
+      "Zhengyuan Zhang"
+    ],
+    "abstract": "The interactions between Rydberg atoms and microwave fields provide a valuable framework for studying the complex dynamics out of equilibrium, exotic phases, and critical phenomena in many-body physics. This unique interplay allows us to explore various regimes of nonlinearity and phase transitions. Here, we observe a phase transition from the state in the regime of bistability to that in multistability in strongly interacting Rydberg atoms by varying the microwave field intensity, accompanying with the breaking of Z3-symmetry. During the phase transition, the system experiences a hidden critical point, in which the multistable states are difficult to be identified. Through changing the initial state of system, we can identify a hidden multistable state and reveal a hidden trajectory of phase transition, allowing us to track to a hidden critical point. In addition, we observe multiple phase transitions in spectra, suggesting higher-order symmetry breaking. The reported results shed lig",
+    "oa": true,
+    "oa_url": "https://arxiv.org/pdf/2408.10514",
+    "tier": "white",
+    "priority": 1
+  },
+  {
+    "doi": "https://doi.org/10.47738/jads.v7i3.1406",
+    "title": "An Interpretable Composite Index for Real-Time RFID Anomaly Detection in Predictive Maintenance",
+    "date": "2026-07-20",
+    "journal": "Journal of Applied Data Sciences",
+    "authors": [
+      "Zhang Shude"
+    ],
+    "abstract": "Radio-frequency identification (RFID) systems are widely deployed for asset and inventory tracking in industrial environments, yet their reliability degrades under dynamic conditions where early, subtle tag anomalies remain difficult to detect. The objective of this work is to develop an interpretable, lightweight, and real-time index for detecting anomalous tag behavior at the point of reading, addressing the limitation that most existing methods rely on a single indicator such as received signal strength or raw read counts and therefore lack sensitivity to incipient instability. The core idea is to fuse two dimensionally consistent sub-metrics into a single composite score: a read-speed deviation coefficient that quantifies instability in tag-read cadence, and a communication-frequency concealment coefficient that captures temporal and communication-rate irregularities, with each component mapping to a physically identifiable failure mode so the score is interpretable by construction",
+    "oa": true,
+    "oa_url": "https://bright-journal.org/Journal/index.php/JADS/article/download/1406/679",
+    "tier": "white",
+    "priority": 1
+  },
+  {
+    "doi": "https://doi.org/10.14738/tecs.1404.11991",
+    "title": "Analytical Study on Unsolved Question and Mysteries of the Universe and Wisdom from Holly Book",
+    "date": "2026-07-17",
+    "journal": "Transactions on Engineering and Computing Sciences",
+    "authors": [
+      "Hossain K. A."
+    ],
+    "abstract": "The present research paper discusses a number of the greatest mysteries of the Universe, ranging from the existence of alien life and dark matter/energy to relativity theory, quantum mechanics and the future of reality. In addition, the fate of humanity as a whole is also discussed, taking into account such aspects as the possibility of further inhabitation of the Earth, interstellar travel, transhumanism and even the influence of consciousness on the evolution of the universe. As opposed to providing some new experiment-based conclusions, the paper discusses different mysteries of the universe from the perspective of science and philosophy. Recent discoveries of astronomy, theories of theoretical physics, as well as speculations related to the possible future development of civilizations and consciousness form the basis for the discussion. In this qualitative analytical article, effort will be taken to discuss and analyses of the most pressing and unsolved question and problems in mod",
+    "oa": true,
+    "oa_url": "https://scholarpublishing.org/journals/index.php/TECS/article/download/11991/12177",
+    "tier": "white",
+    "priority": 1
+  },
+  {
+    "doi": "https://doi.org/10.1116/5.0309355",
+    "title": "Optical nanofiber testbeds for benchmarking membrane-waveguide photonic integrated circuit platforms toward on-chip quantum inertial sensing",
+    "date": "2026-07-16",
+    "journal": "AVS Quantum Science",
+    "authors": [
+      "Adrian Orozco",
+      "William Kindel",
+      "Nicholas Karl",
+      "Yuan‐Yu Jau",
+      "Michael Gehl"
+    ],
+    "abstract": "Recent advances in cold atom interferometry with optical and magnetic atom guides have set the stage for quantum inertial sensors capable of operating in dynamic environments. In this work, we present three key innovations—evanescent-field (EF) atom guides, optical nanofiber testbeds, and membrane-waveguide photonic integrated circuit (PIC) platforms—to advance EF-guided atom interferometry. First, we demonstrate EF atom guides on optical nanofiber testbeds, which serve as performance benchmarks for our membrane-waveguide PIC platforms. Second, we achieve low-power (∼5 mW) guiding of freely moving, laser-cooled 133Cs atoms in two-color, traveling-wave EF optical dipole traps at the novel, heat-efficient magic wavelengths of 793 and 937 nm (i.e., “793/937-nm EF atom guides”). Concurrently, we design and fabricate membrane-waveguide PIC platforms for these EF atom guides; in our prior work, we showed that these structures safely accommodate 4–6 times the required optical trap power under",
+    "oa": true,
+    "oa_url": "https://pubs.aip.org/avs/aqs/article-pdf/doi/10.1116/5.0309355/21078029/033202_1_5.0309355.pdf",
+    "tier": "white",
+    "priority": 1
+  },
+  {
+    "doi": "https://doi.org/10.1038/s41467-026-75236-w",
+    "title": "High-fidelity electrical detection of spin transport in graphene",
+    "date": "2026-07-10",
+    "journal": "Nature Communications",
+    "authors": [
+      "Yijie Lin",
+      "Yuang Jie",
+      "Berke Köker",
+      "Hue T. B. Do",
+      "Yang Jian-min"
+    ],
+    "abstract": "Graphene can support spin transport over long distances, yet achieving large electrical spin signals remains challenging because spin injection and detection are highly sensitive to disorder at tunnel-barrier interfaces. Here we demonstrate that suppressing such interfacial disorder enables high-fidelity spin injection and detection in graphene. We fabricate van der Waals graphene spin valves by exfoliating and assembling constituent two-dimensional crystals inside an inert glovebox, combined with contamination-suppressing lamination and thorough post-transfer cleaning to realize atomically flat hexagonal boron nitride tunnel barriers. Our four-terminal nonlocal devices exhibit exceptionally large spin polarizations approaching 90 percent and nonlocal spin signals up to 1.6 kΩ. The high tunnel-barrier quality enables robust spin detection down to nanoampere excitation currents and gate-tunable magnetoresistance exceeding 80 percent. Spin precession measurements reveal Elliott–Yafet-typ",
+    "oa": true,
+    "oa_url": "https://www.nature.com/articles/s41467-026-75236-w_reference.pdf",
+    "tier": "white",
+    "priority": 1
+  },
+  {
+    "doi": "https://doi.org/10.1038/s41566-026-01961-9",
+    "title": "Hybrid nanophotonic trap for cold atoms using surface forces and a blue-detuned evanescent field",
+    "date": "2026-07-09",
+    "journal": "Nature Photonics",
+    "authors": [
+      "Riccardo Pennetta",
+      "Antoine Glicenstein",
+      "Lucas Pache",
+      "Philipp Schneeweiß",
+      "Jürgen Volz"
+    ],
+    "abstract": "Abstract Interfacing trapped neutral atoms with light propagating in nanophotonic waveguides enables efficient and long-range photon-mediated atom–atom interactions. Here we demonstrate a hybrid nanophotonic trap for cold neutral atoms, which leverages surface forces for attraction and blue-detuned evanescent light for repulsion. We attribute the attractive potential to a combination of the Casimir–Polder interaction and electrostatic attraction due to charges on the waveguide surface. Despite the shallow depth of the trap, we load atoms into it via adiabatic transfer from a conventional two-colour dipole trap with an efficiency of 96(5)%. Notably, the hybrid trap supports a long atomic storage time of 140(9) ms. Moreover, it exhibits a Ramsey coherence time $${T}_{2}^{* }$$ <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"> <mml:msubsup> <mml:mrow> <mml:mi>T</mml:mi> </mml:mrow> <mml:mrow> <mml:mn>2</mml:mn> </mml:mrow> <mml:mrow> <mml:mo>*</mml:mo> </mml:mrow> </mml:msubsup> <",
+    "oa": true,
+    "oa_url": "https://www.nature.com/articles/s41566-026-01961-9.pdf",
+    "tier": "white",
+    "priority": 1
+  },
+  {
+    "doi": "https://doi.org/10.1103/tmsk-wrqy",
+    "title": "Highly efficient microwave storage and retrieval using a superconducting chiral <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"> <mml:mi mathvariant=\"normal\">Λ</mml:mi> </mml:math> -type molecule",
+    "date": "2026-06-11",
+    "journal": "Physical Review Applied",
+    "authors": [
+      "Kai-I Chu",
+      "Yung-Fu Chen",
+      "Wen-Te Liao"
+    ],
+    "abstract": "We theoretically investigate a high-efficiency and broadband microwave storage and retrieval scheme employing a superconducting artificial chiral molecule embedded in a one-dimensional transmission line. By optimizing the parametric coupling, the chiral $Λ$-type molecule enables near 100\\% storage efficiency and fidelity across a bandwidth of 100 MHz. Our results provide a feasible pathway toward implementing microwave quantum memories compatible with broadband quantum networks.",
+    "oa": true,
+    "oa_url": "https://arxiv.org/pdf/2503.19608",
+    "tier": "white",
+    "priority": 1
+  },
+  {
+    "doi": "https://doi.org/10.1088/1361-6501/ae7994",
+    "title": "A 3D passive ring gyroscope for seismology",
+    "date": "2026-06-08",
+    "journal": "Measurement Science and Technology",
+    "authors": [
+      "Thomas Julian Gereons",
+      "Jannik Zenner",
+      "Thorsten Georg Groh",
+      "Simon Stellmer"
+    ],
+    "abstract": "Abstract In seismology and related fields, the measurement of rotation in all three spatial dimensions is essential to complement the observation of translations. Access to all six degrees of freedom allows for full reconstruction of seismic wavefields and improves the understanding of complex ground motion during seismic events. In this regard, Sagnac interferometers in the form of large active ring laser systems have demonstrated remarkable performance. So-called passive ring gyroscopes offer the potential to bypass some of the limitations of active ring lasers and could represent a promising complement to existing sensor technology. Here, we present a prototype of a transportable three-dimensional free-space passive ring gyroscope, reaching a sensitivity in the <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" overflow=\"scroll\"> <mml:mrow> <mml:mtext>μ</mml:mtext> </mml:mrow> </mml:math> rad s <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" overflow=\"scroll\"> <mml:mr",
+    "oa": true,
+    "oa_url": "https://iopscience.iop.org/article/10.1088/1361-6501/ae7994/pdf",
+    "tier": "white",
+    "priority": 1
+  },
+  {
+    "doi": "https://doi.org/10.1103/7rtp-3xts",
+    "title": "Enantiosensitive exceptional points in open chiral systems",
+    "date": "2026-05-29",
+    "journal": "Physical Review A",
+    "authors": [
+      "Nicola Mayer",
+      "Alexander Löhr",
+      "Nimrod Moiseyev",
+      "Misha Ivanov",
+      "Olga Smirnova"
+    ],
+    "abstract": "Exceptional points (EPs) are remarkable spectral degeneracies in a non-Hermitian system's parameter space, where both eigenvalues and eigenstates coalesce. Here, we show that in non-Hermitian molecular chiral systems the position of EPs in the parameter space is enantiomer-specific. First, we show that encircling the EP of one enantiomer drives robust topological population transfer in the chiral molecule while its mirror twin remains unaffected, offering a route for selective chiral control. Second, we reveal how resonant excitation of EPs in chiral molecules can amplify weak chiral effects, offering an alternative approach to the enhancement of chiral interactions. Third, we demonstrate that a twisted chiral fiber immersed in a liquid solution of chiral molecules exhibits topologically different behavior depending on the solution's enantiomeric excess, offering a topological approach to the detection of molecular chirality. Our results combine high enantiosensitivity with topological",
+    "oa": true,
+    "oa_url": "https://doi.org/10.1103/7rtp-3xts",
+    "tier": "white",
+    "priority": 1
+  },
+  {
+    "doi": "https://doi.org/10.1038/s41467-026-72900-z",
+    "title": "Resistive memory-based neural differential equation solver for score-based diffusion model",
+    "date": "2026-05-12",
+    "journal": "Nature Communications",
+    "authors": [
+      "Jichang Yang",
+      "Hegan Chen",
+      "Jia Chen",
+      "Songqi Wang",
+      "Qifan Zhu"
+    ],
+    "abstract": "While AI-generated content (AIGC) strives to replicate human imagination, current models like score-based diffusion remain slow and energy-intensive. This inefficiency stems from conventional digital computers, where physically separated storage and processing units cause data-transfer bottlenecks, and discrete operations disrupt naturally continuous generation dynamics. Here we show a brain-inspired, analog in-memory computing system that overcomes these limitations. By employing resistive memory, our system integrates storage and computation to act as a time-continuous neural differential equation solver. We experimentally validate our solution with 180 nm resistive memory in-memory computing macros. While maintaining generative quality equivalent to the software baseline, our system accelerated both unconditional and conditional generation tasks, by factors of 69.0 and 116.5, respectively, compared to advanced digital hardware. Furthermore, it reduced energy consumption by 31.5% and",
+    "oa": true,
+    "oa_url": "https://www.nature.com/articles/s41467-026-72900-z_reference.pdf",
+    "tier": "white",
+    "priority": 1
+  },
+  {
+    "doi": "https://doi.org/10.1116/5.0313350",
+    "title": "Feynman diagrams for matter wave interferometry",
+    "date": "2026-05-08",
+    "journal": "AVS Quantum Science",
+    "authors": [
+      "Jonah Glick",
+      "Tim Kovachy"
+    ],
+    "abstract": "We introduce a new theoretical framework based on Feynman diagrams to compute phase shifts in matter wave interferometry. The method allows for analytic computation of higher order quantum corrections, beyond the traditional semi-classical approximation. These additional terms depend on the finite size of the initial matter wavefunction and/or have higher order dependence on ℏ. We apply the method to compute the response of matter wave interferometers to power law potentials and potentials with an arbitrary spatial dependence. The analytic expressions are validated by comparing to numerical simulations, and estimates are provided for the scale of the quantum corrections to the phase shift response to the gravitational field of the earth, anharmonic trapping potentials, and gravitational fields from local proof masses. We also find that for certain experimentally feasible parameters, these corrections are large enough to be measured and could lead to systematic errors if they are not mi",
+    "oa": true,
+    "oa_url": "https://arxiv.org/pdf/2407.11446",
+    "tier": "white",
+    "priority": 1
+  },
+  {
+    "doi": "https://doi.org/10.3390/quantum8020043",
+    "title": "Noise Mitigation in Quantum-Enhanced Fiber Optic Gyroscopes",
+    "date": "2026-05-01",
+    "journal": "Quantum Reports",
+    "authors": [
+      "Stefan Evans",
+      "Joanna Ptasinski"
+    ],
+    "abstract": "We analyze noise in a quantum-enhanced fiber optic gyroscope (FOG), focusing on one of the leading sources of phase uncertainty—uncorrelated photon saturation. Taking a squeezed state input as a source for N00N states, we compute the uncorrelated false coincidence counts at the optimal phase bias and determine an upper limit to the squeezed amplitude ξ which allows for sub-shot noise precision. As examples, we apply parameters of present-day quantum FOG experiments and determine the maximum possible precision enhancement based on their respective ξ and optimal phase bias points. With the aim of supporting future FOG setups with higher N00N state fluxes, our result highlights the need to transition to multimode states to bypass the ξ limitation, such as photon pairs generated by the dynamical Casimir effect.",
+    "oa": true,
+    "oa_url": "https://www.mdpi.com/2624-960X/8/2/43/pdf?version=1778823103",
+    "tier": "white",
+    "priority": 1
+  },
+  {
+    "doi": "https://doi.org/10.1103/x5xg-whh1",
+    "title": "Simulating quantum turbulence with matrix-product states",
+    "date": "2026-04-22",
+    "journal": "Physical Review Applied",
+    "authors": [
+      "Felipe Gómez-Lozada",
+      "Nicolas Perico-García",
+      "Nikita Gourianov",
+      "Hayder Salman",
+      "Juan José Mendoza-Arenas"
+    ],
+    "abstract": "Quantum turbulence spans length scales from the system size <a:math xmlns:a=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"> <a:mi>L</a:mi> </a:math> to the healing length <c:math xmlns:c=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"> <c:mi>ξ</c:mi> </c:math> , making direct numerical simulations (DNS) of the Gross-Pitaevskii (GP) equation computationally expensive when <e:math xmlns:e=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"> <e:mi>L</e:mi> <e:mo>≫</e:mo> <e:mi>ξ</e:mi> </e:math> . We present a matrix-product state (MPS) solver for the GP equation that efficiently compresses the wavefunction by truncating weak interlength-scale correlations. This approach reduces memory usage by factors ranging from <g:math xmlns:g=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"> <g:mn>10</g:mn> <g:mo>×</g:mo> </g:math> to over <i:math xmlns:i=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"> <i:mn>10</i:mn> <i:mspace width=\"0.1em\"/> <i:mn>000</i:mn> <i:mo>×</i:mo",
+    "oa": true,
+    "oa_url": "https://doi.org/10.1103/x5xg-whh1",
+    "tier": "white",
+    "priority": 1
+  },
+  {
+    "doi": "https://doi.org/10.1038/s41467-026-71802-4",
+    "title": "S-atom dislocation-induced room-temperature ferroelectricity in two-dimensional α-MnS semiconductor",
+    "date": "2026-04-22",
+    "journal": "Nature Communications",
+    "authors": [
+      "Ling Huang",
+      "J Wu",
+      "Chen-Min Dai",
+      "Ruofan Du",
+      "Junbo Yang"
+    ],
+    "abstract": "Room-temperature ferroelectricity in two-dimensional semiconductors has ignited enormous interests due to their potential applications in non-volatile memory and neuromorphic computing, which will trigger a revolution in next-generation electronics. Nonetheless, this fascinating ferroelectricity is rarely discovered in such materials with natural central symmetry, especially at atomically thin limit. Here we disclose a room-temperature ferroelectricity with out-of-plane polarization in chemical vapor deposition synthesized two-dimensional α-MnS. The difference in thermal expansion coefficients between α-MnS and mica substrate leads to the evolution of dislocations in two-dimensional α-MnS, which induce the generation of tensile strain and the displacement of S atoms, thereby result in the emergence of ferroelectricity. In addition, the ferroelectric tunneling junction based on two-dimensional α-MnS exhibits large tunneling electroresistance (1.3 × 104), high endurance (2.8 × 103 cycles",
+    "oa": true,
+    "oa_url": "https://doi.org/10.1038/s41467-026-71802-4",
+    "tier": "white",
+    "priority": 1
+  },
+  {
+    "doi": "https://doi.org/10.1007/s11433-026-2913-8",
+    "title": "Exploration of altermagnetism in RuO2",
+    "date": "2026-03-26",
+    "journal": "Science China Physics Mechanics and Astronomy",
+    "authors": [
+      "Yu-Xin Li",
+      "Yiyuan Chen",
+      "Liqing Pan",
+      "Shuai Li",
+      "Song-Bo Zhang"
+    ],
+    "abstract": "",
+    "oa": true,
+    "oa_url": "https://arxiv.org/pdf/2509.19932",
+    "tier": "white",
+    "priority": 1
+  },
+  {
+    "doi": "https://doi.org/10.1038/s41377-025-02181-6",
+    "title": "Quantum-enhanced reconfigurable in-memory stochastic computing",
+    "date": "2026-03-18",
+    "journal": "Light Science & Applications",
+    "authors": [
+      "Hong-Zhe Yang",
+      "Jian-Peng Dou",
+      "Fei Lu",
+      "Xiao-Wen Shang",
+      "Chao-Ni Zhang"
+    ],
+    "abstract": "In-memory computing, which enables computation directly within memory, represents an efficient approach to processing massively parallel computation tasks that are intractable for conventional computers. However, implementations of in-memory computing have been primarily limited to the classical regime, with its nonclassical counterpart yet to be fully explored. Quantum memory, with its unique capability to generate, preserve, and nontrivially operate on quantum states, offers spectacular quantum-enhanced advantages and is thus a promising candidate for in-memory computing. Here, leveraging a room-temperature quantum memory, we demonstrate a quantum-enhanced and reconfigurable in-memory stochastic computing system, where correlated photons, randomly produced in the quantum memory, serve as the computing resources. We show that addition and multiplication operations can be straightforwardly achieved by accumulating photon counts, and multiple computing tasks can be accelerated by mappin",
+    "oa": true,
+    "oa_url": "https://www.nature.com/articles/s41377-025-02181-6.pdf",
+    "tier": "white",
+    "priority": 1
+  },
+  {
+    "doi": "https://doi.org/10.1038/s41467-026-70171-2",
+    "title": "Physical echo state network based on the nonlinearity and dynamic response of ambipolar heterostructure transistors",
+    "date": "2026-02-28",
+    "journal": "Nature Communications",
+    "authors": [
+      "Wen-Min Zhong",
+      "Wenbin Zhang",
+      "Yuxiang Zeng",
+      "J. Zhao",
+      "Ziqi Jia"
+    ],
+    "abstract": "In the field of neuromorphic computing, time-series prediction poses a significant challenge to recurrent neural network architectures, often requiring task-specific customization that limits the development of general-purpose computing platforms. In this work, we implement a physical echo-state network (ESN) using ambipolar organic–inorganic heterostructure transistors to form its reservoir layer. Leveraging the ambipolar nature of the transistor, its variable-resistance region enables sparse matrix operations, while the saturation region provides tanh-like nonlinearity, making it well-suited for implementing both synaptic weighting and neuronal activation in an ESN. Additionally, its dynamic response naturally introduces temporal attributes. Thus, it can serve as a neuromorphic computing model for time-series tasks. Without the involvement of dynamic mechanisms, it is capable of performing image recognition, time-series prediction, and multimodal recognition tasks. When dynamic mecha",
+    "oa": true,
+    "oa_url": "https://www.nature.com/articles/s41467-026-70171-2.pdf",
+    "tier": "white",
+    "priority": 1
+  },
+  {
+    "doi": "https://doi.org/10.3390/photonics13080716",
+    "title": "High-Sensitivity Bistable Biosensor Based on the Photonic Crystal Fabry-Pérot Cavity with Weyl Semimetal",
+    "date": "2026-07-29",
+    "journal": "Photonics",
+    "authors": [
+      "Shiqi Yang",
+      "Xiao Daohong",
+      "Xiangjie Luo",
+      "Kui Wang",
+      "Haishan Tian"
+    ],
+    "abstract": "Optical bistability (OB) with low threshold and high tunability is crucial for advanced photonic devices. This work theoretically investigates low-threshold and tunable OB in a one-dimensional photonic crystal Fabry-Pérot (FP) cavity embedded with a Weyl semimetal (WSM) layer. By combining the local field enhancement of the cavity and the large third-order nonlinear refractive index of the WSM, we achieve OB in the terahertz regime with a low threshold of ~105 V/m. Furthermore, the OB threshold and hysteresis width can be flexibly manipulated via the Fermi energy of WSM, incident angle, photonic crystal period, the refractive index of the dielectric inside the cavity, and the position of the WSM inside the FP cavity. Moreover, based on the high sensitivity of switching thresholds to refractive index and displacement variations, we also propose a dual-parameter sensing scheme. This exhibits excellent sensing performance for gas sensing (sensitivity up to 96.48 × 105 V/m·RIU) and high se",
+    "oa": true,
+    "oa_url": "https://www.mdpi.com/2304-6732/13/8/716/pdf?version=1785326096",
+    "tier": "gray",
+    "priority": 2
+  },
+  {
+    "doi": "https://doi.org/10.1038/s42005-026-02745-x",
+    "title": "Gravitational γ-ray photon echo using Thorium-229 nuclear clock transition in vacuum ultraviolet regime",
+    "date": "2026-07-15",
+    "journal": "Communications Physics",
+    "authors": [
+      "Wen-Te Liao",
+      "Sven Ahrens"
+    ],
+    "abstract": "Abstract Gravitational redshift, a striking prediction of Einstein’s theory of general relativity, has been experimentally confirmed on Earth. Yet, exploiting this effect as a controllable resource in coherent quantum systems remains challenging. Here, we theoretically demonstrate gravitationally induced γ -ray photon echoes in solid-state Thorium-229 targets using the 8.4 eV nuclear clock transition, which, owing to its nuclear origin, extends the definition of γ rays down into the vacuum ultraviolet regime. With its ultranarrow linewidth (1 mHz), exceptional quality factor (10 19 ), and long 1740 s isomeric half-life, this transition offers a compact solid-state platform sensitive to millimeter-scale gravitational variations. We further investigate the gravitational photon echo in a spinless crystal with a coherence time on the order of seconds. Controlled target rotations enable the generation, manipulation, and storage of γ -ray echoes, paving the way for a gravitationally driven γ",
+    "oa": true,
+    "oa_url": "https://www.nature.com/articles/s42005-026-02745-x_reference.pdf",
+    "tier": "gray",
+    "priority": 2
+  },
+  {
+    "doi": "https://doi.org/10.3390/photonics13060576",
+    "title": "High-Performance Fiber Optic Gyroscope Based on a Silicon Photonic Integrated Circuit",
+    "date": "2026-06-13",
+    "journal": "Photonics",
+    "authors": [
+      "X Zhao",
+      "Yuefeng Shen",
+      "Yi Zhang",
+      "Ziqiang Zhao",
+      "Cui Liang"
+    ],
+    "abstract": "Fiber optic gyroscopes (FOGs) are core sensors in inertial navigation systems, and their miniaturization and integration are currently hot research topics. This work presents an FOG system driven by a silicon photonics integrated circuit (PIC). The PIC, based on a 90 nm silicon-on-insulator (SOI) process, integrates core components such as polarizers, 3 dB couplers, and phase modulators within a compact footprint of 3 × 0.45 mm2. These components exhibit excellent performance over a wide spectral range and play a crucial role in high-performance FOG systems. Experimental results show that the proposed FOG system can definitively measure the small angular velocity of the Earth’s rotation (±7.5 °/h). Further Allan variance analysis reveals that the FOG system has an angular random walk (ARW) of 0.00358 °/h1/2 and a bias instability (BIS) of 0.1185 °/h. These results demonstrate the application potential of silicon photonics-based FOG systems.",
+    "oa": true,
+    "oa_url": "https://www.mdpi.com/2304-6732/13/6/576/pdf?version=1781324690",
+    "tier": "gray",
+    "priority": 2
+  },
+  {
+    "doi": "https://doi.org/10.3390/photonics13050424",
+    "title": "Enhanced Thermal Stability in Compact ASE Sources Enabled by Optimized Erbium-Doped Fiber Design",
+    "date": "2026-04-24",
+    "journal": "Photonics",
+    "authors": [
+      "Jianming Liu",
+      "Wenbin Lin",
+      "Liu W",
+      "Jinjuan Cheng",
+      "Chengcheng He"
+    ],
+    "abstract": "Amplified Spontaneous Emission (ASE) sources are widely employed as highly stable broadband sources in fields such as high-precision navigation and optical detection. Erbium-doped fiber (EDF), as the core active component in ASE sources, has long been a key subject of thermal stability research. We fabricated a low-doped EDF with an 80 μm-cladding using the vapor phase doping (VPD) technique. This EDF was compared with a commercial 125 μm-cladding EDF using a double-pass forward (DPF) optical path configuration with a narrowband filter. We investigated the temperature-dependent characteristics of the ASE spectra generated by the two EDFs with different parameters. The temperature drift performance of the two EDFs was analyzed based on three critical indicators of the spectrum: mean wavelength, spectral bandwidth, and output power. In comparison with the commonly used EDF, the results show that a properly designed small-cladding EDF with an appropriate length can deliver higher ASE outp",
+    "oa": true,
+    "oa_url": "https://www.mdpi.com/2304-6732/13/5/424/pdf?version=1777044395",
+    "tier": "gray",
+    "priority": 2
+  },
+  {
+    "doi": "https://doi.org/10.3390/photonics13040361",
+    "title": "Phase Noise Suppression in Fiber Interferometers over the Hz–kHz Range Using Solid-Core and Hollow-Core Photonic Crystal Fibers",
+    "date": "2026-04-09",
+    "journal": "Photonics",
+    "authors": [
+      "Yibin Liang",
+      "Kejian Li",
+      "Kunhua Wen"
+    ],
+    "abstract": "Fiber interferometers are widely used in precision measurement fields such as seismic observation, gravitational-wave detection, and aerospace guidance. However, phase noise in the Hz–kHz range has become an important factor limiting further improvement in measurement accuracy. In this work, a solid-core photonic crystal fiber (PCF) and a hollow-core photonic bandgap fiber (HC-PBGF) were introduced into the sensing arms of a fiber interferometer to reduce phase noise in this frequency range. Theoretical analysis showed that, compared with a conventional solid-core fiber, the PCF and the 19-cell HC-PBGF used in this study could reduce the phase noise by approximately 3 dB and 7 dB, respectively. The experimental results agreed well with the theoretical predictions, confirming that both fibers can effectively suppress high-frequency phase noise, with HC-PBGF showing superior noise reduction performance. This work provides a feasible approach for improving the performance of fiber interfe",
+    "oa": true,
+    "oa_url": "https://www.mdpi.com/2304-6732/13/4/361/pdf?version=1775732264",
+    "tier": "gray",
+    "priority": 2
+  },
+  {
+    "doi": "https://doi.org/10.3390/s26061927",
+    "title": "Magnetic Effect on the Performance of a Four-Frequency Differential Laser Gyroscope",
+    "date": "2026-03-19",
+    "journal": "Sensors",
+    "authors": [
+      "Guochen Wang",
+      "Jin Li"
+    ],
+    "abstract": "The performance of a four-frequency differential laser gyroscope (FFDLG) is severely affected by the magnetic field. In this paper, the following conclusions are discussed through theoretical analyses and experimental data: First of all, the Zeeman effect cannot fully explain the magnetic effect on the gain region due to the plasma movement. Secondly, an FFDLG does not have a unique optimal operating point where the gyroscope is not affected by any magnetic field. Plasma movement driven by Lorentz force induces a Fresnel drag effect, leading to a frequency imbalance and magnetic error in the ring laser gyroscope (RLG). This mechanism, involving the interaction between moving gain media and the counter-propagating beams, was missed in previous research.",
+    "oa": true,
+    "oa_url": "https://www.mdpi.com/1424-8220/26/6/1927/pdf",
+    "tier": "gray",
+    "priority": 2
+  }
+]

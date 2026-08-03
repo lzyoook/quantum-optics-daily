@@ -1,0 +1,18 @@
+# Secrets - DO NOT commit
+.env
+config/email.json
+
+# Dependencies
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Temp files
+*.tmp
+pr_text.txt

@@ -1,0 +1,141 @@
+{
+  "last_run": {
+    "date": "2026-08-03",
+    "day": "Monday",
+    "workflow": "A (regenerated)",
+    "topics": [
+      "Quantum FOG noise mitigation",
+      "Optomechanical quantum memory near ground state"
+    ],
+    "pipeline_version": "2.0",
+    "features": [
+      "double-filter journals",
+      "content relevance check",
+      "DOI normalization",
+      "auto-rotate keywords",
+      "error notification"
+    ]
+  },
+  "keywords_rotated": {
+    "previous": [
+      "SU(1,1) interferometry",
+      "OPM",
+      "Rydberg",
+      "squeezed light"
+    ],
+    "current": [
+      "quantum gyroscope",
+      "quantum memory",
+      "optomechanical storage"
+    ],
+    "next_suggestion": [
+      "hot-atom squeezed light",
+      "distributed quantum sensing",
+      "quantum interferometer"
+    ]
+  },
+  "infrastructure": {
+    "scripts_dir": "D:\\everyday_recommand\\scripts",
+    "data_dir": "D:\\everyday_recommand\\data",
+    "dedup_db": "D:\\everyday_recommand\\data\\pushed_papers.json",
+    "total_pushed_dois": 47
+  },
+  "keyword_rotation_history": [
+    {
+      "date": "2026-07-22",
+      "name": "squeezed light array",
+      "keywords": [
+        "squeezed light array",
+        "atomic vapor",
+        "four-wave mixing"
+      ]
+    },
+    {
+      "date": "2026-07-23",
+      "name": "optically pumped magnetometer",
+      "keywords": [
+        "optically pumped magnetometer",
+        "space atom interferometer"
+      ]
+    },
+    {
+      "date": "2026-07-24",
+      "name": "Rydberg sensing",
+      "keywords": [
+        "Rydberg electrometry",
+        "FWM squeezing entanglement"
+      ]
+    },
+    {
+      "date": "2026-07-27",
+      "name": "quantum memory",
+      "keywords": [
+        "gradient echo memory",
+        "hybrid quantum memory",
+        "SERF magnetometer"
+      ]
+    },
+    {
+      "date": "2026-07-28",
+      "name": "quantum interferometer",
+      "keywords": [
+        "SU(1,1) interferometer",
+        "Heisenberg limit",
+        "squeezed light"
+      ]
+    },
+    {
+      "date": "2026-07-29",
+      "name": "hot-atom squeezed light",
+      "keywords": [
+        "spin squeezing",
+        "transit noise",
+        "correlated comagnetometer"
+      ]
+    },
+    {
+      "date": "2026-07-30",
+      "name": "Rydberg sensing",
+      "keywords": [
+        "Rydberg atom polarimetry",
+        "vortex squeezed light",
+        "SU(1,1) interferometer"
+      ]
+    },
+    {
+      "date": "2026-07-31",
+      "name": "optically pumped magnetometer",
+      "keywords": [
+        "optically pumped magnetometer",
+        "phase error suppression",
+        "magnetic imaging"
+      ]
+    },
+    {
+      "date": "2026-08-03",
+      "name": "quantum gyroscope",
+      "keywords": [
+        "quantum gyroscope",
+        "optomechanical quantum memory",
+        "quantum memory",
+        "fiber optic gyroscope"
+      ]
+    }
+  ],
+  "last_daily_run": {
+    "date": "2026-08-03",
+    "papers_count": 0,
+    "white_count": 0,
+    "gray_count": 0
+  },
+  "last_weekly_run": {
+    "date": "2026-08-03",
+    "week": 31,
+    "daily_papers_count": 10,
+    "supplementary_count": 0,
+    "enterprise_count": 0,
+    "policy_count": 0,
+    "md_path": "(dry-run, skipped)"
+  },
+  "last_weekly_run_format": "markdown"
+}
